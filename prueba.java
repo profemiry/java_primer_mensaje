@@ -2,7 +2,7 @@
  * Programa que muestra el resultado de una multiplicación.
  * Sirve como ejemplo básico para practicar comentarios JavaDoc.
  *
- * @author TuNombre
+ * @author Miryam JM
  * @version 1.0
  */
 public class prueba {
